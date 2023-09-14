@@ -1,10 +1,5 @@
 # Polynomial-Regression
-
-This project implements Polynomial Regression with regularization, a machine learning technique used for modeling complex relationships between input features and output targets. 
-
-
-## Introduction
-Polynomial Regression is a regression technique that fits a polynomial equation to the data instead of a linear equation. It is particularly useful when the relationship between the input features and the output target is nonlinear. This implementation also includes regularization, which helps prevent overfitting and enhances the model's generalization.
+This project implements Polynomial Regression, a regression technique that fits a polynomial equation to the data instead of a linear equation. It is particularly useful when the relationship between the input features and the output target is **nonlinear**. This implementation also includes regularization, which helps prevent overfitting and enhances the model's generalization.
 
 ## Features
 - **Polynomial Transformation**: The `transform` method allows for the transformation of input features into polynomial features up to a specified degree. This enables capturing complex relationships in the data.
